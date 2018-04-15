@@ -234,7 +234,7 @@
   <project path="external/opencv" name="LineageOS/android_external_opencv" />
   <project path="external/openfst" name="LineageOS/android_external_openfst" />
   <project path="external/openssh" name="LineageOS/android_external_openssh" />
-  <project path="external/openssl" name="LineageOS/android_external_openssl" groups="pdk" />
+  <project path="external/openssl" name="zhkl0228/android_external_openssl" groups="pdk" />
   <project path="external/oprofile" name="LineageOS/android_external_oprofile" />
   <project path="external/pciutils" name="LineageOS/android_external_pciutils" />
   <project path="external/pigz" name="LineageOS/android_external_pigz" />
@@ -295,7 +295,7 @@
   <project path="external/zlib" name="LineageOS/android_external_zlib" groups="pdk" />
   <project path="external/zxing" name="LineageOS/android_external_zxing" />
   <project path="frameworks/av" name="LineageOS/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/base" name="LineageOS/android_frameworks_base" />
+  <project path="frameworks/base" name="zhkl0228/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="LineageOS/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="LineageOS/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="LineageOS/android_frameworks_compile_slang" groups="pdk" />
