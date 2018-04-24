@@ -321,7 +321,7 @@
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="frameworks/rs" name="LineageOS/android_frameworks_rs" groups="pdk" />
   <project path="frameworks/support" name="LineageOS/android_frameworks_support" />
-  <project path="frameworks/testing" name="LineageOS/android_frameworks_testing" />
+  <project path="frameworks/testing" name="zhkl0228/android_frameworks_testing" />
   <project path="frameworks/volley" name="LineageOS/android_frameworks_volley" />
   <project path="frameworks/webview" name="LineageOS/android_frameworks_webview" />
   <project path="frameworks/wilhelm" name="LineageOS/android_frameworks_wilhelm" />
